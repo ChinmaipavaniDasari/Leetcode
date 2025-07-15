@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1078-remove-outermost-parentheses](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3396-valid-word](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3396-valid-word) |
 ## Trie
 |  |
 | ------- |
