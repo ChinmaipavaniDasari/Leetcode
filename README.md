@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0224-basic-calculator](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3396-valid-word](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3396-valid-word) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -85,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0009-palindrome-number) |
 | [0224-basic-calculator](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
