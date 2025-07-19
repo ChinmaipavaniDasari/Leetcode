@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0740-delete-and-earn) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0227-basic-calculator-ii) |
