@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0740-delete-and-earn) |
 | [1095-two-city-scheduling](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1095-two-city-scheduling) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0740-delete-and-earn) |
 | [1023-time-based-key-value-store](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0268-missing-number) |
 | [1095-two-city-scheduling](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1095-two-city-scheduling) |
 ## Counting
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Heap (Priority Queue)
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0268-missing-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
 |  |
@@ -176,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0268-missing-number) |
 | [1023-time-based-key-value-store](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
