@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0740-delete-and-earn) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0740-delete-and-earn) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
