@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0740-delete-and-earn) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0268-missing-number) |
