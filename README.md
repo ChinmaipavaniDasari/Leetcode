@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0740-delete-and-earn](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0740-delete-and-earn) |
+| [0826-soup-servings](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1013-fibonacci-number) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0268-missing-number) |
+| [0826-soup-servings](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Heap (Priority Queue)
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
