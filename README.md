@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0443-string-compression) |
+| [0812-rotate-string](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0826-soup-servings) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
