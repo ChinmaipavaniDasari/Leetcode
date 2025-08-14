@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0054-spiral-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
