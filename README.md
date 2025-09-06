@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3830-find-closest-person) |
 ## Heap (Priority Queue)
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Tree
 |  |
 | ------- |
