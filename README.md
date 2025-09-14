@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0812-rotate-string) |
+| [1006-vowel-spellchecker](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0682-baseball-game) |
 | [0740-delete-and-earn](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1095-two-city-scheduling](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0740-delete-and-earn) |
 | [0900-reordered-power-of-2](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1813-maximum-erasure-value](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
