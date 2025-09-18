@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2429-design-a-food-rating-system](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3678-design-task-manager](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3678-design-task-manager) |
 ## Memoization
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [2429-design-a-food-rating-system](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3678-design-task-manager) |
 ## Backtracking
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
