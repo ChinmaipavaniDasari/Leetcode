@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0036-valid-sudoku) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0189-rotate-array) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0011-container-with-most-water) |
 | [1095-two-city-scheduling](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1448-maximum-69-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
