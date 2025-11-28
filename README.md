@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Hash Function
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Segment Tree
 |  |
 | ------- |
