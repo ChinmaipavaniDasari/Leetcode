@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1095-two-city-scheduling](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1095-two-city-scheduling) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2689-rearranging-fruits](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2689-rearranging-fruits](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/0268-missing-number) |
 | [1023-time-based-key-value-store](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
