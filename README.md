@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2429-design-a-food-rating-system](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3830-find-closest-person) |
 ## Heap (Priority Queue)
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ChinmaipavaniDasari/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Queue
 |  |
 | ------- |
